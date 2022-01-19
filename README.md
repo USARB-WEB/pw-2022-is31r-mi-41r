@@ -17,3 +17,7 @@ https://meet.google.com/aii-brzi-xuv
 # Git tutorial:
 + https://www.youtube.com/watch?v=8JJ101D3knE
 + https://www.youtube.com/watch?v=zZBiln_2FhM
+
+
+Link la fisierul cu insarcinari practiceȘ
+https://docs.google.com/document/d/1Jwe9q_h9TiuLYS7pnOhdmteDvWtdUtrKkawdkYpUgek/edit?usp=sharing
